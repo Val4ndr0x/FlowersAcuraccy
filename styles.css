@@ -779,7 +779,7 @@ mask-image: linear-gradient(to top, transparent 40%, #ff0000 80%) !important;
   bottom: 0vmin;
 }
 .shape {
-  left: 25%;
+  left: 20%;
   top: 2%;
   
   opacity: 0;
